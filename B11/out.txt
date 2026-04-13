@@ -1,4 +1,0 @@
-database.txt
-out.txt
-telnet_server
-telnet_server.c
